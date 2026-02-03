@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0B1830",
+            "lang-select-color": "#222829",
+            "bg-light": "#0B1830",
+            "welcome-bonus-bg": "#D8E3EF",
+            "top-games-hover-fg": "#0B1830",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#0B1830",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#5EE1FE",
+            "yellow-button": "#273B5F",
+            "button-text": "#000000",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#D8E3EF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#D8E3EF",
+            "faq-label": "#6f97c4",
+            "bg-footer": "#0B1830",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2456"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2455",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "SwiftBet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2457",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "SwiftBet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "SwiftBet",
+                    "title": "SwiftBet — Bet on Sports & Casino | Welcome Bonus $200",
+                    "description": "Join SwiftBet for competitive odds on sports and 1000+ casino games. Claim your 100% welcome bonus up to $200 with instant deposits. Sign up today!\n",
+                    "canonical": "swiftbet-casino.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2458",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "swiftbet-casino.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2459"
+                },
+                "hero": {
+                    "title": "Bet Smart with SwiftBet — Sports & Casino in One Place",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2460",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2461",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "We bring you the ultimate betting experience with competitive sports odds and premium casino games. Our platform combines cutting-edge technology with 24\/7 support to ensure every bet counts. Here's why thousands of Aussie punters choose us:\n",
+                    "items": [
+                        "Licensed in Victoria with Curacao certification for secure and fair gaming",
+                        "100% welcome bonus up to $200 plus ongoing weekly reload offers for loyal players",
+                        "Instant deposits via PayPal, POLi, and debit cards with fast withdrawal processing",
+                        "Comprehensive sports coverage including NRL, AFL, cricket, and live in-play betting",
+                        "1000+ casino games from leading providers with slots, table games, and live dealers",
+                        "24\/7 customer support via live chat with knowledgeable Aussie-friendly staff"
+                    ],
+                    "advantagesAfterText": "We deliver seamless betting across desktop and mobile platforms. Our commitment to responsible gaming and player protection sets the standard. Experience the difference with instant account setup and competitive odds updated in real time.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "SwiftBet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2462",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "SwiftBet App",
+                    "mobileGooglePlayImageTitle": "SwiftBet App",
+                    "mobileIosImageTitle": "SwiftBet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About SwiftBet Casino & Sportsbook",
+                        "description1": "We are a proudly Australian-owned and operated online betting platform based in Melbourne, Victoria. Our mission is to provide punters with the best possible betting experience through competitive odds, diverse gaming options, and exceptional customer service.\n",
+                        "items": [
+                            "Launched as Australia's fresh alternative to traditional bookmakers",
+                            "Expanded casino offerings to 1000+ games from premium providers",
+                            "Introduced multi-bet boosts up to 50% for enhanced player value",
+                            "Achieved 24\/7 live support coverage with Australian-based team"
+                        ],
+                        "description2": "We operate under strict Victorian licensing with additional Curacao certification. Our platform employs advanced SSL encryption to protect your personal and financial data. All gaming outcomes are certified by independent auditors to ensure fairness and transparency.\nWe continue innovating with new features and betting markets. Our focus remains on delivering competitive odds, fast payouts, and responsible gaming tools. Join our growing community of satisfied punters and discover why we're Australia's exciting new choice.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2463",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Guide to SwiftBet Casino Games",
+                        "description": "<h2>Explore Our Premium Casino Gaming Collection<\/h2>\n\n<p>We pride ourselves on delivering one of the most comprehensive online casino experiences in Australia. Our gaming library features over 1000 titles from industry-leading software providers, ensuring every player finds their perfect match. From classic pokies to immersive live dealer experiences, we offer entertainment that combines cutting-edge technology with the thrill of traditional casino gaming.<\/p>\n\n<p>Our casino platform is designed with Australian players in mind, offering seamless gameplay across all devices. Whether you prefer spinning the reels on your desktop at home or playing blackjack on your mobile during your commute, we guarantee smooth performance and stunning graphics. We regularly update our collection with the latest releases, ensuring you always have access to the hottest new games in the industry.<\/p>\n\n<h3>Pokies and Slot Machines<\/h3>\n\n<p>We feature an extensive selection of online pokies that cater to every taste and budget. Our slot collection includes classic 3-reel fruit machines, modern 5-reel video slots, and progressive jackpot games with life-changing prize pools. Popular titles include themed slots based on movies, mythology, adventure, and sports, each offering unique bonus features and free spin rounds.<\/p>\n\n<p>Our pokie games come with various betting limits to accommodate all players. You can start spinning from as little as $0.10 per spin on penny slots or place maximum bets of $100+ on high-roller machines. We showcase games from renowned providers who guarantee certified random number generation and fair payouts. Many of our pokies feature innovative mechanics like cascading reels, expanding wilds, multiplier trails, and interactive bonus rounds that keep the action exciting.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Classic pokies:<\/strong> Traditional 3-reel slots with nostalgic symbols like fruits, bells, and lucky sevens for authentic casino vibes.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Video slots:<\/strong> Modern 5-reel games with stunning graphics, animated characters, and immersive soundtracks for enhanced entertainment.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Progressive jackpots:<\/strong> Networked slots where prize pools grow with every bet until one lucky player hits the mega win.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Megaways slots:<\/strong> Games with thousands of winning combinations per spin thanks to dynamic reel mechanics and cascading symbols.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Branded titles:<\/strong> Officially licensed slots featuring your favorite movies, TV shows, and music artists with authentic audio and visuals.\n  <\/li>\n<\/ul>\n\n<h3>Live Dealer Casino Games<\/h3>\n\n<p>We bring the authentic casino floor directly to your screen with our premium live dealer section. Our live games are streamed in high-definition from professional studios, featuring real dealers who interact with you in real time. This creates an immersive social gaming environment that perfectly replicates the excitement of land-based casinos while offering the convenience of playing from anywhere.<\/p>\n\n<p>Our live casino operates around the clock with multiple tables for each game type. You can choose your preferred dealer, table limits, and even language options for a personalized experience. The streaming quality adapts to your internet connection, ensuring smooth gameplay whether you're on 4G mobile or high-speed broadband. Chat features allow you to communicate with dealers and other players, creating a genuine community atmosphere.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live roulette tables:<\/strong> Including European, American, French, and speed variants with various betting limits for all budgets.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack games:<\/strong> With classic rules, unlimited seats, and special side bets like Perfect Pairs and 21+3 for extra excitement.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat tables:<\/strong> Offering standard, speed, and VIP versions with squeeze feature for enhanced suspense and authentic casino feel.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live poker:<\/strong> Including Three Card Poker, Caribbean Stud, and Texas Hold'em Bonus with progressive jackpots and tournaments.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Game show experiences:<\/strong> Like Crazy Time, Monopoly Live, and Dream Catcher combining entertainment with gambling thrills.\n  <\/li>\n<\/ul>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #50c3d9;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #001220;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Pokies<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$100<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0d2236;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Live Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #001220;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$4,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0d2236;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$3,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #001220;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Live Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0d2236;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Jackpots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$250<\/td>\n    <\/tr>\n    <tr style=\"background-color: #001220;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Game Shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Table Games and Classic Casino Favorites<\/h3>\n\n<p>We offer a comprehensive selection of traditional table games in virtual format, perfect for players who prefer strategic gameplay. Our RNG-powered table games use certified random number generators to ensure every outcome is completely fair and unpredictable. These games offer faster gameplay compared to live dealer versions, making them ideal for quick sessions or practicing strategies.<\/p>\n\n<p>Each table game comes with customizable settings including table limits, game speed, and visual themes. We provide detailed rule explanations and strategy guides accessible directly from the game interface, helping both beginners and experienced players optimize their approach. Our table games load instantly without waiting for dealer actions, allowing you to play at your own pace without time pressure.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Roulette variations:<\/strong> European, American, and French roulette with different house edges and special betting options like neighbors and finals.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack variants:<\/strong> Classic, European, Atlantic City, and Vegas Strip rules with options for surrender, insurance, and double down.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat options:<\/strong> Punto Banco, Mini Baccarat, and No Commission versions with detailed statistics tracking for pattern analysis.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Poker games:<\/strong> Video poker titles including Jacks or Better, Deuces Wild, and Joker Poker with optimal strategy charts.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Specialty games:<\/strong> Like Sic Bo, Craps, and Dragon Tiger offering unique betting experiences beyond standard table games.\n  <\/li>\n<\/ul>\n\n<h3>Progressive Jackpot Network<\/h3>\n\n<p>We connect you to some of the world's largest progressive jackpot networks, where prize pools can reach millions of dollars. These games pool a small percentage of every bet across thousands of players worldwide, creating massive jackpots that continue growing until someone hits the winning combination. We display real-time jackpot counters so you can watch the prizes climb and choose games with the biggest potential payouts.<\/p>\n\n<p>Our progressive jackpot games include both standalone titles with casino-specific prizes and networked games linked across multiple operators. Many of our jackpot pokies feature multiple prize tiers, offering mega, major, minor, and mini jackpots that trigger through different bonus features. We've seen Australian players win life-changing sums on our platform, with jackpot victories regularly exceeding six figures and occasionally reaching into the millions.<\/p>\n\n<h3>Mobile Casino Gaming Experience<\/h3>\n\n<p>We've optimized our entire casino for seamless mobile play without requiring any app downloads. Our mobile platform works perfectly on iOS and Android devices through your web browser, delivering the same high-quality graphics and smooth gameplay you'd expect from desktop. We've adapted touch controls for intuitive navigation, making it easy to spin reels, place chips, and adjust settings with simple taps and swipes.<\/p>\n\n<p>Our mobile casino features the same game selection, banking options, and customer support access as the desktop version. Games load quickly even on 4G connections, and we've optimized file sizes to minimize data usage without sacrificing visual quality. You can seamlessly switch between devices mid-session, with your balance and gaming history syncing instantly across all platforms for ultimate convenience.<\/p>\n\n<h3>Responsible Gaming Features<\/h3>\n\n<p>We're committed to promoting safe and responsible gambling practices. Our platform includes comprehensive tools to help you maintain control over your gaming activity. You can set daily, weekly, or monthly deposit limits that prevent spending beyond your budget. We offer reality check reminders that alert you after specific time intervals, helping you track session length and make informed decisions about continuing play.<\/p>\n\n<p>We provide easy access to self-exclusion options ranging from 24-hour cool-off periods to permanent account closure. Our support team is trained to recognize problem gambling signs and can direct you to professional resources and counseling services. We partner with responsible gambling organizations to ensure players have access to the help they need whenever gaming stops being entertainment.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Sports Betting Markets & Payment Methods",
+                        "description": "<h2>Comprehensive Sports Betting Coverage<\/h2>\n\n<p>We deliver one of Australia's most comprehensive sports betting platforms, covering everything from local footy to international tournaments. Our sportsbook features competitive odds on NRL, AFL, cricket, tennis, soccer, basketball, racing, and dozens of other sports. We update our odds in real time throughout every match, giving you the flexibility to capitalize on changing game dynamics and find the best value for your bets.<\/p>\n\n<p>Our betting interface is designed for speed and efficiency. You can build complex multi-bets with just a few taps, combining selections from different sports and markets into one bet slip. We offer same-game multis for major events, allowing you to combine outcomes from a single match with boosted odds. Our live betting section features dynamic odds that update second-by-second, with streaming statistics and match trackers to help you make informed decisions.<\/p>\n\n<h3>Australian Racing Excellence<\/h3>\n\n<p>We specialize in Australian thoroughbred, harness, and greyhound racing with comprehensive coverage of every meeting nationwide. Our racing platform features fixed odds and tote betting options, giving you flexibility in how you approach each race. We provide detailed form guides, track conditions, jockey and trainer statistics, and expert tips to help you make educated selections across all three racing codes.<\/p>\n\n<p>Our racing offers include Best of the Best guarantees on metropolitan meetings, ensuring you always receive the best available price. We feature exotic bet types including trifectas, quinellas, exactas, and first four combinations with competitive dividends. Our race replays library lets you watch previous races to analyze form, while our blackbook feature helps you save horses and track their performance over time.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Thoroughbred racing:<\/strong> Complete coverage of metropolitan and provincial meetings across Australia with competitive fixed odds and tote options.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Harness racing:<\/strong> All major harness meetings with detailed form guides, driver statistics, and track condition reports for informed betting.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Greyhound racing:<\/strong> Fast-paced greyhound action from tracks nationwide with box statistics, track records, and expert selections daily.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>International racing:<\/strong> Major UK, US, Hong Kong, and Dubai races with competitive odds on prestigious events and festivals.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Exotic betting options:<\/strong> Quinellas, exactas, trifectas, first fours, and running doubles with enhanced dividends on selected races.\n  <\/li>\n<\/ul>\n\n<h3>NRL and AFL Betting Markets<\/h3>\n\n<p>We're passionate about Australian football codes and provide extensive betting markets for every NRL and AFL match. Beyond standard head-to-head and line betting, we offer hundreds of prop markets including first tryscorer, player performance stats, quarter outcomes, and team totals. Our same-game multi builder lets you combine multiple outcomes from one match with boosted odds for bigger potential payouts.<\/p>\n\n<p>Our live betting platform shines during NRL and AFL matches with dynamic odds that reflect game flow. You can bet on next tryscorer, half-time results, total points ranges, and margin markets while watching the action unfold. We provide live statistics including possession percentages, completion rates, tackle counts, and disposal numbers to inform your in-play betting decisions throughout each quarter.<\/p>\n\n<h3>International Sports Coverage<\/h3>\n\n<p>We cover major sports from around the globe including English Premier League soccer, NBA basketball, NFL football, tennis grand slams, golf majors, and international cricket. Our markets extend beyond match results to include detailed prop bets, player specials, tournament winners, and season-long futures. We offer enhanced odds on featured events and multi-bet boosts up to 50% on selected sports combinations.<\/p>\n\n<p>Our international coverage includes Asian sports leagues, European competitions, and American tournaments with competitive margins. We accept bets on less mainstream sports like darts, snooker, MMA, boxing, cycling, and motorsports for punters seeking niche betting opportunities. Our odds comparison tools help you identify value across different markets, ensuring you're getting maximum returns on your sporting knowledge.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Soccer betting:<\/strong> Premier League, Champions League, La Liga, and international tournaments with match results, goals, and player props.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Basketball markets:<\/strong> NBA, NBL, and international leagues with spreads, totals, player points, and quarter betting options available.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Tennis wagering:<\/strong> Grand Slams, ATP, and WTA events with set betting, game handicaps, and in-play markets throughout matches.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cricket options:<\/strong> Test matches, ODI series, T20 leagues, and Big Bash with runs, wickets, and player performance markets.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Combat sports:<\/strong> UFC, boxing, and kickboxing events with method of victory, round betting, and fight outcome specials.\n  <\/li>\n<\/ul>\n\n<h3>Multi-Bet Builder and Boosted Odds<\/h3>\n\n<p>We empower you to create customized multi-bets with our advanced bet builder technology. You can combine selections from different sports, leagues, and match times into one bet slip with automatically calculated combined odds. Our multi-bet boost feature increases your potential returns by up to 50% depending on the number of legs in your multi, making accumulators even more rewarding.<\/p>\n\n<p>Our same-game multi builder revolutionizes how you bet on individual matches. You can combine outcomes like match winner, total points, first scorer, and player stats from a single game into one bet with enhanced odds. We highlight popular same-game multi combinations and display boosted percentages clearly, so you know exactly how much extra value you're receiving on your creative betting strategies.<\/p>\n\n<h3>Secure Payment Methods for Australian Players<\/h3>\n\n<p>We've partnered with Australia's most trusted payment providers to ensure seamless deposits and withdrawals. Our banking options are specifically tailored for Australian players, supporting AUD currency to eliminate conversion fees. All transactions are protected by bank-grade SSL encryption, and we never store your complete payment details on our servers for maximum security and peace of mind.<\/p>\n\n<p>Our instant deposit methods get you into the action immediately, with funds appearing in your account within seconds of confirmation. We process withdrawal requests quickly, with most e-wallet and PayPal cashouts completed within 24 hours. We maintain transparent fee structures with no hidden charges, and our banking page clearly displays processing times, minimum amounts, and any applicable limits for each method.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>PayPal integration:<\/strong> Instant deposits and withdrawals with enhanced buyer protection and no transaction fees on our end.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>POLi payments:<\/strong> Direct bank transfers through Australia's leading online payment system with instant processing and high security.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Debit cards:<\/strong> Visa and Mastercard debit cards accepted with instant deposits and fast withdrawal processing to your card.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bank transfers:<\/strong> Direct bank deposits and withdrawals for larger transactions with secure processing within 1-3 business days.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>E-wallet options:<\/strong> Skrill and other e-wallets available for international payment flexibility with quick transaction speeds.\n  <\/li>\n<\/ul>\n\n<h3>Bonuses and Promotional Offers<\/h3>\n\n<p>We welcome new members with a generous 100% matched deposit bonus up to $200 on your first deposit. Simply create your account, make a qualifying deposit of at least $20, and we'll double your bankroll automatically. Our welcome bonus comes with fair wagering requirements of just 5x the bonus amount, and you have 30 days to use your bonus funds across our sportsbook and casino.<\/p>\n\n<p>Our loyalty program rewards ongoing play with weekly reload bonuses and exclusive promotions. You'll receive 25% bonus top-ups up to $50 on your first deposit each week, keeping your bankroll healthy. We run multi-bet boosts, enhanced odds specials, and cashback offers regularly, with personalized promotions sent directly to your email based on your betting preferences and activity levels.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Welcome package:<\/strong> 100% match up to $200 on first deposit with 5x wagering requirement completed within 30 days.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Weekly reloads:<\/strong> 25% bonus up to $50 every week on your first deposit to keep your betting action consistent.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Multi-bet bonuses:<\/strong> Up to 50% boost on accumulator bets with 3+ legs across selected sports and racing events.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Refer-a-mate program:<\/strong> Earn $50 bonus for every friend you refer who makes their first deposit and meets requirements.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Loyalty points:<\/strong> Accumulate points on every bet placed and redeem them for free bets, cash bonuses, and exclusive perks.\n  <\/li>\n<\/ul>\n\n<h3>Customer Support and Account Management<\/h3>\n\n<p>We maintain 24\/7 customer support through multiple channels to ensure you always have help when needed. Our live chat service connects you instantly with knowledgeable support staff who understand Australian betting culture and can resolve issues quickly. We also offer email support for detailed queries, with typical response times under 4 hours even during peak periods.<\/p>\n\n<p>Our account management dashboard gives you complete control over your betting activity. You can view detailed transaction history, track your bets across sports and casino, download statements, and manage deposit limits all from one intuitive interface. We provide self-service tools for password changes, contact updates, and verification document uploads, making account maintenance simple and efficient without requiring support assistance.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim the SwiftBet welcome bonus?",
+                            "answer": "Create your account and make your first deposit of at least $20 to receive a 100% match bonus up to $200. The bonus credits automatically to your account within minutes. You'll need to wager the bonus amount 5 times within 30 days to convert it to withdrawable cash. Both sports and casino bets count toward wagering requirements."
+                        },
+                        {
+                            "title": "What payment methods do you accept for deposits and withdrawals?",
+                            "answer": "We accept PayPal, POLi, Visa and Mastercard debit cards, Skrill, and direct bank transfers. Deposits are instant for all methods except bank transfers, which take 1-3 business days. Withdrawals via PayPal and Skrill process within 24-48 hours, while debit cards take 3-5 days and bank transfers take 1-3 business days."
+                        },
+                        {
+                            "title": "Can I bet on my mobile phone or tablet?",
+                            "answer": "Yes, our entire platform is fully optimized for mobile betting on iOS and Android devices. You don't need to download an app – simply access SwiftBet through your mobile browser for the same features available on desktop. Our mobile site offers live betting, casino games, account management, and instant deposits with touch-optimized controls."
+                        },
+                        {
+                            "title": "What sports can I bet on at SwiftBet?",
+                            "answer": "We cover all major Australian sports including NRL, AFL, thoroughbred racing, harness racing, and greyhound racing. We also offer international markets for soccer, tennis, basketball, cricket, golf, NFL, MMA, boxing, and many other sports. Live in-play betting is available on most major events with real-time odds updates throughout matches."
+                        },
+                        {
+                            "title": "How long do withdrawals take to process?",
+                            "answer": "Withdrawal times vary by payment method. PayPal and e-wallet withdrawals typically process within 24-48 hours after approval. Debit card withdrawals take 3-5 business days, while bank transfers require 1-3 business days. First-time withdrawals may take slightly longer due to standard verification procedures to ensure account security."
+                        },
+                        {
+                            "title": "Is SwiftBet licensed and regulated in Australia?",
+                            "answer": "Yes, we operate under a Victorian gaming license and hold additional Curacao certification. We comply with all Australian gambling regulations and employ strict security measures including SSL encryption to protect your data. All our games use certified random number generators audited by independent testing agencies to ensure fair outcomes."
+                        },
+                        {
+                            "title": "Do you offer live streaming of sports events?",
+                            "answer": "We provide live statistics, match trackers, and real-time score updates for major sporting events. While we don't currently offer video streaming, our detailed live stats give you comprehensive match information to support your in-play betting decisions. Live betting markets update second-by-second with competitive odds throughout events."
+                        },
+                        {
+                            "title": "What responsible gaming tools do you provide?",
+                            "answer": "We offer comprehensive responsible gaming features including deposit limits, session time reminders, reality checks, and self-exclusion options ranging from 24 hours to permanent closure. You can set daily, weekly, or monthly spending limits directly in your account settings. Our support team can also direct you to professional gambling counseling services."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
